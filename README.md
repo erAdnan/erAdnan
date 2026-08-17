@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="[https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg](https://media.licdn.com/dms/image/v2/D4D03AQHaFTE44Eydvw/profile-displayphoto-crop_800_800/B4DZzEph0YG0AI-/0/1772825747897?e=1788393600&v=beta&t=hCqEplg-JvttHedxxgELTHAsH8ZHXVVhsLy9Avu9uSM)" alt="ADNAN ALI" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHaFTE44Eydvw/profile-displayphoto-crop_800_800/B4DZzEph0YG0AI-/0/1772825747897?e=1788393600&v=beta&t=hCqEplg-JvttHedxxgELTHAsH8ZHXVVhsLy9Avu9uSM" alt="ADNAN ALI" />
 </h1>
 
 ## Hey! 👋
