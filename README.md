@@ -1,3 +1,14 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="ADNAN ALI" />
+</h1>
+
+## Hey! 👋
+I'm Adnan, Senior Software Engineer driving technical leadership and innovation from 🇮🇳INDIA🇮🇳.
+
+- 🦔 Co-Founder of [Magnax Pvt Ltd](https://www.magnaxin.com)
+# 💫 About Me:
+🏡 From 🇮🇳, Lives in🇸🇦<br>🏢 Software Engineer || Freelancer<br>🦔 Co-Founder of [Magnax Pvt Ltd](https://www.magnaxin.com)<br>🎓 Jamia Millia Islamia, New Delhi & VTU, Karnataka<br>🏏Cricketer<br>🏋 Fitness lover<br><br>Experienced Mobile and Web Application Developer with a proven track record of building, scaling, and leading development initiatives for both product-based and service-oriented companies. Skilled in React Native, Android, iOS, React.js, Node.js, DevOps, and Docker, with deep experience in designing and delivering high-performance, cross-platform applications that enhance user experience and business value. As a Technical Lead, I have successfully guided development teams, established best practices, and delivered robust, scalable solutions within agile environments. I’m passionate about mentoring engineers, driving architectural decisions, and fostering collaboration across cross-functional teams to ensure efficient and high-quality delivery. Proficient in managing the end-to-end software development lifecycle, from system architecture and CI/CD pipelines to deployment and maintenance. I continuously explore modern tools and technologies — such as Docker and cloud-native development — to improve scalability, performance, and developer productivity. Strong engineering background with a Bachelor of Engineering in Computer Science from Visvesvaraya Technological University.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohammad_adnan_ali) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammad_adnan_ali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-ali-2k11) 
